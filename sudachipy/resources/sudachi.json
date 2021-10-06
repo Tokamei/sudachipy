@@ -1,7 +1,6 @@
 {
     "systemDict" : "",
     "characterDefinitionFile" : "char.def",
-    "userDict" : ["/workspace/localpackage/user.dic"],
     "inputTextPlugin" : [
         { "class" : "sudachipy.plugin.input_text.DefaultInputTextPlugin" },
         { "class" : "sudachipy.plugin.input_text.ProlongedSoundMarkInputTextPlugin",
